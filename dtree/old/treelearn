@@ -1,0 +1,35 @@
+def treelearn(przyklady,atrybuty,kl_dom):
+    
+#    dec=[0,1]
+#1    if przyklady==[]:
+#        print kl_dom
+#    else:
+#        for row in przyklady:
+#            print row
+#2
+#3
+#    if atrybuty=[]:
+        
+#4
+#    root=atrybuty[0]
+#    print root
+#5
+#    nkl_dom=
+#6
+#    nf_przyklady=[]
+#    nt_przyklady=[]
+#    for row in przyklady:
+#        if row[0]==0:
+#            nf_przyklady.append(row)
+#        else:
+#            nt_przyklady.append(row)
+#    print "|    ",atrybuty[1]
+#    del atrybuty[0]
+#    treelearn(nf_przyklady,atrybuty,nkl_dom)
+#    treelearn(nt_przyklady,atrybuty,nkl_dom)    
+#    print nf_przyklady
+#    print nt_przyklady
+        
+
+treelearn(przyklady,atrybuty,kl_dom)
+   
